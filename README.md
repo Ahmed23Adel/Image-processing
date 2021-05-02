@@ -36,7 +36,8 @@ Editing:
 
 
 Here is powerpoint that explains more:
-[Uploading Presentation.pptx…]()
+[Hydroliuim Simple Image editor. - Copy (2).pptx](https://github.com/Ahmed23Adel/Image-processing/files/6412249/Hydroliuim.Simple.Image.editor.-.Copy.2.pptx)
+
 
 And here is pdf that has an abstract about our project and explains even more:
 [Report.pdf](https://github.com/Ahmed23Adel/Image-processing/files/6404857/Report.pdf)
