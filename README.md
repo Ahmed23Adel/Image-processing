@@ -18,9 +18,9 @@ Advanced:
 
 Editing:
 
-<img width="539" alt="Screen Shot 2021-04-30 at 1 03 46 PM" src="https://user-images.githubusercontent.com/69484554/116687014-d5234d00-a9b4-11eb-8322-003da121ad1e.png">
-
 <img width="790" alt="Screen Shot 2021-04-30 at 1 00 25 PM" src="https://user-images.githubusercontent.com/69484554/116686412-0c452e80-a9b4-11eb-828f-271819a1f3ef.png">
+
+<img width="539" alt="Screen Shot 2021-04-30 at 1 03 46 PM" src="https://user-images.githubusercontent.com/69484554/116687014-d5234d00-a9b4-11eb-8322-003da121ad1e.png">
 
 <img width="600" alt="Screen Shot 2021-04-30 at 1 02 23 PM" src="https://user-images.githubusercontent.com/69484554/116686801-a3aa8180-a9b4-11eb-8a80-5211c61dcecd.png">
 
